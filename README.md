@@ -50,6 +50,6 @@ Here are some ideas to get you started:
 
 - :seedling: I'm currently learning Ansible ⚙️ and Python 🐍
 
-- :zap: In my free time, I watch movies, gaming related content, and read tech articles.
+- :zap: In my free time, I listen to a variety of podcasts, watch gaming related content, and movies.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanpruitt/)
