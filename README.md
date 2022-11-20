@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://infosec.exchange/@nathanpruitt">
-    <img src="https://img.shields.io/badge/Mastodon-blue?style=for-the-badge&logo=Mastodon&logoColor=white" alt="Mastodon Badge"/>
+    <img src="https://img.shields.io/badge/Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
   </a>
   <a href="https://twitter.com/nathanpruitt">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
