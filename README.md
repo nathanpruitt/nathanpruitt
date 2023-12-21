@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 -->
 <!-- Example Profile README.md text -->
 
-- :telescope: I’m working as a Cybersecurity Analyst and learning automation and scripting.
+- :telescope: I’m working as a Cybersecurity Consultant and learning automation and scripting.
 
 - :seedling: I'm currently learning Ansible ⚙️ and Python 🐍
 
