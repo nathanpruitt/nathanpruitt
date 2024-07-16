@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 - :telescope: I’m working as a Cybersecurity Consultant and learning automation and scripting.
 
-- :seedling: 📚 I'm currently learning Network Engineering and Security 🏫
+- :seedling: I'm currently working on my degree in 📚 Network Engineering and Security 🏫
 
 - :zap: In my free time, I listen to a variety of podcasts, watch gaming related content, and movies.
 
